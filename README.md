@@ -1,6 +1,4 @@
-# Spotify-SQL-Project
-
-# 🎵 Spotify Data Analysis Using SQL
+# Spotify Data Analysis Using SQL
 
 Link to dataset:
 [Link to dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
