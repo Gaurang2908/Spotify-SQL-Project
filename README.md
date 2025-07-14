@@ -60,3 +60,10 @@ The dataset includes:
 - Calculated **cumulative likes** across **500M+ total views**  
 - Compared **platform dominance** between Spotify and YouTube  
 - Ranked **top 3 tracks for 30+ artists** based on views
+
+---
+
+##  Technology Stack
+- **Database**: PostgreSQL
+- **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
+- **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
