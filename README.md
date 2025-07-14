@@ -2,7 +2,10 @@
 
 # 🎵 Spotify Data Analysis Using SQL
 
-This project explores key performance metrics across 600+ global music tracks using structured SQL queries on a cleaned dataset containing streaming data from Spotify and YouTube. The goal was to simulate real-world data analysis tasks commonly performed by product, analytics, and marketing teams.
+Link to dataset:
+[Link to dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
+![Spotify logo](https://github.com/Gaurang2908/Spotify-SQL-Project/blob/main/spotify%20logo.jpg)
+This project examines key performance metrics across over 600 global music tracks using structured SQL queries on a cleaned dataset that contains streaming data from Spotify and YouTube. The goal was to simulate real-world data analysis tasks commonly performed by product, analytics, and marketing teams.
 
 ---
 
@@ -17,8 +20,8 @@ The dataset includes:
 
 ##  Key Objectives
 
-- Analyze artist performance and top content
-- Compare streaming behavior across Spotify vs YouTube
+- Analyse artist performance and top content
+- Compare streaming behaviour across Spotify vs YouTube
 - Derive KPIs like danceability, energy variability, and engagement
 - Practice advanced SQL skills (window functions, CTEs, conditional logic)
 
